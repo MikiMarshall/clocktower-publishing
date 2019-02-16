@@ -5,7 +5,7 @@ The Home and Design pages are complete, the other menu links are dummies (manage
 with one page and moved on to the next project soon after).
 
 ## List of items to complete:
-  - Remaining pages.
-  - Add navigation function to Kindle reader buttons.
+  - Remaining pages to support menu buttons below "Design".
+  - Add navigation function to "Kindle" reader buttons.
   - Server response to Design Submission button.
   
